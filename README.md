@@ -40,13 +40,13 @@ H        A        C        K        D        A        Y        {
 
 Logiquement le signal commence juste après la synchro. 
 
-Chaque charactère Ascii (sous forme de 8bits) sont séapré par 4bits 'x110' (faisant parti du protocole de Transmission des données en série )
-
-<img width="300" alt="Capture2d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163341388-75dbb580-47a0-45dc-bc08-558a8e6cc1d2.png">
-
 Le début de la trame matche parfaitement avec le flag :
 
 ![bitssynchro](https://user-images.githubusercontent.com/39098396/163234116-d49f9353-a5a0-4798-9d1d-b291f0779404.png)
+
+Chaque charactère Ascii (sous forme de 8bits) sont séapré par 4bits 'x110' (faisant parti du protocole de Transmission des données en série )
+
+<img width="300" alt="Capture2d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163341388-75dbb580-47a0-45dc-bc08-558a8e6cc1d2.png">
 
 Une fois compris la mécanique de la trame, il suffit de décoder jusqu'a la fin du flag soit '}'
 ![bits](https://user-images.githubusercontent.com/39098396/163230726-a3db75fd-f66e-403e-a94f-b960b717ca24.png)
