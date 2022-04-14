@@ -16,12 +16,10 @@ celle ci par exemple : http://dk0te.dhbw-ravensburg.de:8901
 > En journée, le signal va etre moins audible voir quasi inexistant en cas de forte température. Ce sont les lois de la Propagation ionosphérique, ainsi, il vaut mieux écouter le signal en soirée. (Comme le dis l'énoncée : A la nuit tombée, tout s'éclaire)
 
 
-Le signal découpé en 2 partie, une en 3.5Lhz et l'autre à 3.5804 Mhz, resemblant étrangement à du FSK
+Le signal découpé en 2 parties, en 3.5Lhz et en 3.5804 Mhz, cela resemble étrangement à du FSK. 
 > La modulation par déplacement de fréquence (FSK  : Frequency-shift keying) est un modulation de fréquence dans lequel des informations numériques sont transmises via des changements de fréquence discrets d'un signal porteur. 
 
-
-
-Une fois le signal enregistrée : 
+Le signal peut etre enregistré afin d'étre analyser et démoduler en local. 
 
 <img width="600" alt="Capture d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163225165-9a5ca4ba-85d3-4278-9c3c-7e2198882a94.png">
 
