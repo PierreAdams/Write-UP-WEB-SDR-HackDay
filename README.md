@@ -8,7 +8,7 @@ Ce chall ne fourni ni fichier ni ip/port pour du tcp, mais le titre donne un ind
 Un WebSDR est un récepteur radio accesible sur Internet, nous permettant ainsi d'écouteur et d'analyser certains signaux sans forcément avoir le materiel nécessaire. 
 > Certain site web comme http://websdr.org permet de les lister.
 
-Le challenge est hebergé par ESIEE Paris donc une plateforme francais, il conviendra donc de selectionner un websdr hebergé proche de paris :   
+Le challenge est hebergé par ESIEE Paris donc une plateforme francais, il conviendra donc de selectionner un websdr hebergé proche de paris.     
 Celui ci par exemple : http://dk0te.dhbw-ravensburg.de:8901
 
 <img width="600" alt="Capture d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163197774-5cc4130d-c32d-46b4-89c6-7e4b99ad9aab.png">
@@ -27,8 +27,8 @@ Rien de flagrant, mais audacity permet d'afficher le spectre et en jouant avec l
 
 <img width="600" alt="Capture2d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163226553-40229a61-16ef-4b6b-8f0c-10a62abf6cba.png">
 
-Maintenant à l'aide d'un fichier le but est réecrire bits par bits pour ensuite decoder le binaire et ainssi obtenir de l'Ascii.
-Il y à quand meme quelques indices pour pas commencer n'importe ou et sans repères : 
+Maintenant à l'aide d'un fichier texte, le but va être de réecrire bits par bits le signal pour ensuite decoder le binaire et ainssi obtenir de l'Ascii.
+Il y à quand meme quelques indices pour ne pas commencer n'importe ou et sans repères : 
 1. Nous savons que le flag commence par "HACKDAY{" donc : 
 ```
 01001000 01000001 01000011 01001011 01000100 01000001 01011001 01111011
@@ -44,7 +44,7 @@ Chaque charactère Ascii (sous forme de 8bits) sont séapré par 4bits 'x110' (f
 
 <img width="300" alt="Capture2d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163341388-75dbb580-47a0-45dc-bc08-558a8e6cc1d2.png">
 
-Le début de la trame match parfaitement avec le flag :
+Le début de la trame matche parfaitement avec le flag :
 
 ![bitssynchro](https://user-images.githubusercontent.com/39098396/163234116-d49f9353-a5a0-4798-9d1d-b291f0779404.png)
 
