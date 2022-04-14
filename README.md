@@ -8,8 +8,8 @@ Ce chall ne fourni ni fichier ni ip/port pour du tcp, mais le titre donne un ind
 Un WebSDR est un récepteur radio accesible sur Internet, nous permettant ainsi d'écouteur et d'analyser certains signaux sans forcément avoir le materiel nécessaire. 
 > Certain site web comme http://websdr.org permet de les lister.
 
-Le challenge est hebergé par ESIEE Paris donc une plateforme francais, il conviendra donc de selectionner un websdr hebergé proche de paris : 
-celle ci par exemple : http://dk0te.dhbw-ravensburg.de:8901
+Le challenge est hebergé par ESIEE Paris donc une plateforme francais, il conviendra donc de selectionner un websdr hebergé proche de paris :   
+Celui ci par exemple : http://dk0te.dhbw-ravensburg.de:8901
 
 <img width="600" alt="Capture d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163197774-5cc4130d-c32d-46b4-89c6-7e4b99ad9aab.png">
 
