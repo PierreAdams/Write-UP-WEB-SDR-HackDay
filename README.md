@@ -32,7 +32,7 @@ Rien de flagrant, mais audacity permet d'afficher le spectre et en jouant avec l
 
 <img width="600" alt="Capture2d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163226553-40229a61-16ef-4b6b-8f0c-10a62abf6cba.png">
 
-Après avoir passé une demi journée de try hard sur URH sans succès, je me retrousse les manches et décide donc de le faire à la mano : 
+*Après avoir passé une demi journée de try hard sur URH sans succès, je me retrousse les manches et décide donc de le faire à la mano :*
 
 À l'aide d'un fichier texte, le but va être de réecrire bits par bits le signal pour ensuite decoder le binaire et ainssi obtenir de l'Ascii.
 Il y à quand meme quelques indices pour ne pas commencer n'importe ou et sans repères : 
