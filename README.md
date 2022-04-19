@@ -20,7 +20,7 @@ Une fois la fréquence réglée sur 3,58Mh, un signal de 30 secondes est visible
 
 Après voir testé plusieurs modes : le CW (Continuous Wave) est celui ou le signal se fait le mieux entendre. 
 
-Le signal découpé en 2 parties, en 3.5Lhz et en 3.5804 Mhz, cela resemble étrangement à du FSK. 
+Le signal découpé en 2 parties, en 3.5Mhz et en 3.5804 Mhz, cela resemble étrangement à du FSK. 
 > La modulation par déplacement de fréquence (FSK  : Frequency-shift keying) est un modulation de fréquence dans lequel des informations numériques sont transmises via des changements de fréquence discrets d'un signal porteur. 
 
 Le signal peut être enregistré afin d'étre analyser et démoduler en local.   
