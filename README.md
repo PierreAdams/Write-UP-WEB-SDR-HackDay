@@ -15,11 +15,16 @@ Celui ci par exemple : http://dk0te.dhbw-ravensburg.de:8901
 
 > En journée, le signal va etre moins audible voir quasi inexistant en cas de forte température. Ce sont les lois de la Propagation ionosphérique, ainsi, il vaut mieux écouter le signal en soirée. (Comme le dit l'énoncée : A la nuit tombée, tout s'éclaire)
 
+Une fois la fréquence réglée sur 3,58Mh, un signal de 30 secondes est visible toute les minutes, ce qui correspond bien à l'énnoncé du chall ! 
+<img width="494" alt="Capture d’écran 2022-04-18 à 20 46 54" src="https://user-images.githubusercontent.com/39098396/163953308-a6fc6d1d-3bff-4c14-bb42-20e3d94c0a9b.png">
+
+Après voir testé plusieur mode : le cw est celui ou le signal se fait le mieux entendre. 
 
 Le signal découpé en 2 parties, en 3.5Lhz et en 3.5804 Mhz, cela resemble étrangement à du FSK. 
 > La modulation par déplacement de fréquence (FSK  : Frequency-shift keying) est un modulation de fréquence dans lequel des informations numériques sont transmises via des changements de fréquence discrets d'un signal porteur. 
 
 Le signal peut être enregistré afin d'étre analyser et démoduler en local. 
+
 
 <img width="600" alt="Capture d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163225165-9a5ca4ba-85d3-4278-9c3c-7e2198882a94.png">
 
