@@ -13,7 +13,7 @@ Celui ci par exemple : http://dk0te.dhbw-ravensburg.de:8901
 
 <img width="600" alt="Capture d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163197774-5cc4130d-c32d-46b4-89c6-7e4b99ad9aab.png">
 
-> En journée, le signal va etre moins audible voir quasi inexistant en cas de forte température. Ce sont les lois de la Propagation ionosphérique, ainsi, il vaut mieux écouter le signal en soirée. (Comme le dit l'énoncée : A la nuit tombée, tout s'éclaire)
+> En journée, le signal va etre moins audible voir quasi inexistant en cas de forte température. Ce sont les lois de la propagation ionosphérique, ainsi, il vaut mieux écouter le signal en soirée. (Comme le dit l'énoncée : A la nuit tombée, tout s'éclaire)
 
 Une fois la fréquence réglée sur 3,58Mh, un signal de 30 secondes est visible toute les minutes, ce qui correspond bien à l'énnoncé du chall ! 
 <img width="494" alt="Capture d’écran 2022-04-18 à 20 46 54" src="https://user-images.githubusercontent.com/39098396/163953308-a6fc6d1d-3bff-4c14-bb42-20e3d94c0a9b.png">
