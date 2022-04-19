@@ -23,9 +23,9 @@ Après voir testé plusieur mode : le cw est celui ou le signal se fait le mieux
 Le signal découpé en 2 parties, en 3.5Lhz et en 3.5804 Mhz, cela resemble étrangement à du FSK. 
 > La modulation par déplacement de fréquence (FSK  : Frequency-shift keying) est un modulation de fréquence dans lequel des informations numériques sont transmises via des changements de fréquence discrets d'un signal porteur. 
 
-Le signal peut être enregistré afin d'étre analyser et démoduler en local. 
-
-
+Le signal peut être enregistré afin d'étre analyser et démoduler en local.   
+[Download WebSDR Signal.wav](https://github.com/PierreAdams/Write-UP-WEB-SDR-HackDay/blob/main/SignalRadioWebSDR.wav)
+  
 <img width="600" alt="Capture d’écran 2022-04-13 à 16 01 04" src="https://user-images.githubusercontent.com/39098396/163225165-9a5ca4ba-85d3-4278-9c3c-7e2198882a94.png">
 
 Rien de flagrant, mais audacity permet d'afficher le spectre et en jouant avec les réglages du spectograme, le logiciel peut afficher des données assez intérressantes : 
